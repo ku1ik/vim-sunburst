@@ -1,5 +1,5 @@
 " Vim color file
-" Converted from Textmate theme Sunburst using Coloration v0.3.1 (http://github.com/sickill/coloration)
+" Converted from Textmate theme Sunburst using Coloration v0.3.2 (http://github.com/sickill/coloration)
 
 set background=dark
 highlight clear
@@ -12,14 +12,14 @@ let g:colors_name = "Sunburst"
 
 hi Cursor ctermfg=NONE ctermbg=248 cterm=NONE guifg=NONE guibg=#a7a7a7 gui=NONE
 hi Visual ctermfg=NONE ctermbg=236 cterm=NONE guifg=NONE guibg=#2c3033 gui=NONE
-hi CursorLine ctermfg=NONE ctermbg=232 cterm=NONE guifg=NONE guibg=#0d0d0d gui=NONE
-hi CursorColumn ctermfg=NONE ctermbg=232 cterm=NONE guifg=NONE guibg=#0d0d0d gui=NONE
-hi ColorColumn ctermfg=NONE ctermbg=232 cterm=NONE guifg=NONE guibg=#0d0d0d gui=NONE
-hi LineNr ctermfg=244 ctermbg=232 cterm=NONE guifg=#7c7c7c guibg=#0d0d0d gui=NONE
-hi VertSplit ctermfg=236 ctermbg=236 cterm=NONE guifg=#2f2f2f guibg=#2f2f2f gui=NONE
+hi CursorLine ctermfg=NONE ctermbg=234 cterm=NONE guifg=NONE guibg=#191919 gui=NONE
+hi CursorColumn ctermfg=NONE ctermbg=234 cterm=NONE guifg=NONE guibg=#191919 gui=NONE
+hi ColorColumn ctermfg=NONE ctermbg=234 cterm=NONE guifg=NONE guibg=#191919 gui=NONE
+hi LineNr ctermfg=244 ctermbg=234 cterm=NONE guifg=#7c7c7c guibg=#191919 gui=NONE
+hi VertSplit ctermfg=238 ctermbg=238 cterm=NONE guifg=#484848 guibg=#484848 gui=NONE
 hi MatchParen ctermfg=173 ctermbg=NONE cterm=NONE guifg=#e28964 guibg=NONE gui=NONE
-hi StatusLine ctermfg=231 ctermbg=236 cterm=bold guifg=#f8f8f8 guibg=#2f2f2f gui=bold
-hi StatusLineNC ctermfg=231 ctermbg=236 cterm=NONE guifg=#f8f8f8 guibg=#2f2f2f gui=NONE
+hi StatusLine ctermfg=231 ctermbg=238 cterm=bold guifg=#f8f8f8 guibg=#484848 gui=bold
+hi StatusLineNC ctermfg=231 ctermbg=238 cterm=NONE guifg=#f8f8f8 guibg=#484848 gui=NONE
 hi Pmenu ctermfg=111 ctermbg=NONE cterm=NONE guifg=#89bdff guibg=NONE gui=NONE
 hi PmenuSel ctermfg=NONE ctermbg=236 cterm=NONE guifg=NONE guibg=#2c3033 gui=NONE
 hi IncSearch ctermfg=NONE ctermbg=17 cterm=NONE guifg=NONE guibg=#142d4b gui=NONE
@@ -41,12 +41,12 @@ hi Function ctermfg=111 ctermbg=NONE cterm=NONE guifg=#89bdff guibg=NONE gui=NON
 hi Identifier ctermfg=113 ctermbg=NONE cterm=NONE guifg=#99cf50 guibg=NONE gui=NONE
 hi Keyword ctermfg=173 ctermbg=NONE cterm=NONE guifg=#e28964 guibg=NONE gui=NONE
 hi Label ctermfg=71 ctermbg=NONE cterm=NONE guifg=#65b042 guibg=NONE gui=NONE
-hi NonText ctermfg=23 ctermbg=232 cterm=NONE guifg=#2e343a guibg=#0d0d0d gui=NONE
+hi NonText ctermfg=23 ctermbg=232 cterm=NONE guifg=#2e343a guibg=#0c0c0c gui=NONE
 hi Number ctermfg=68 ctermbg=NONE cterm=NONE guifg=#3387cc guibg=NONE gui=NONE
 hi Operator ctermfg=173 ctermbg=NONE cterm=NONE guifg=#e28964 guibg=NONE gui=NONE
 hi PreProc ctermfg=173 ctermbg=NONE cterm=NONE guifg=#e28964 guibg=NONE gui=NONE
 hi Special ctermfg=231 ctermbg=NONE cterm=NONE guifg=#f8f8f8 guibg=NONE gui=NONE
-hi SpecialKey ctermfg=23 ctermbg=232 cterm=NONE guifg=#2e343a guibg=#0d0d0d gui=NONE
+hi SpecialKey ctermfg=23 ctermbg=234 cterm=NONE guifg=#2e343a guibg=#191919 gui=NONE
 hi Statement ctermfg=173 ctermbg=NONE cterm=NONE guifg=#e28964 guibg=NONE gui=NONE
 hi StorageClass ctermfg=113 ctermbg=NONE cterm=NONE guifg=#99cf50 guibg=NONE gui=NONE
 hi String ctermfg=71 ctermbg=NONE cterm=NONE guifg=#65b042 guibg=NONE gui=NONE
