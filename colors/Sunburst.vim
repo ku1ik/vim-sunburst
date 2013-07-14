@@ -2,7 +2,7 @@
 " Converted from Textmate theme Sunburst using Coloration v0.3.2 (http://github.com/sickill/coloration)
 
 set background=dark
-hi clear
+highlight clear
 
 if exists("syntax_on")
   syntax reset
