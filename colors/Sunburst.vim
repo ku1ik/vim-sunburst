@@ -101,3 +101,20 @@ hi cssClassName ctermfg=111 ctermbg=NONE cterm=NONE guifg=#89bdff guibg=NONE gui
 hi cssValueLength ctermfg=68 ctermbg=NONE cterm=NONE guifg=#3387cc guibg=NONE gui=NONE
 hi cssCommonAttr ctermfg=167 ctermbg=NONE cterm=NONE guifg=#cf6a4c guibg=NONE gui=NONE
 hi cssBraces ctermfg=NONE ctermbg=NONE cterm=NONE guifg=NONE guibg=NONE gui=NONE
+
+hi MatchTag ctermfg=black ctermbg=lightgreen guifg=black guibg=lightgreen
+
+" Plugin specific additions
+
+" mhinz/vim-signify
+hi DiffAdd cterm=bold ctermbg=none ctermfg=119
+hi DiffDelete cterm=bold ctermbg=none ctermfg=167
+hi DiffChange cterm=bold ctermbg=none ctermfg=227
+hi SignifySignAdd cterm=bold ctermbg=DarkGrey  ctermfg=119
+hi SignifySignDelete cterm=bold ctermbg=DarkGrey  ctermfg=167
+hi SignifySignChange cterm=bold ctermbg=DarkGrey  ctermfg=227
+
+" Valloric/MatchTagAlways
+hi MatchTag ctermfg=black ctermbg=lightgreen guifg=black guibg=lightgreen
+
+
