@@ -6,8 +6,8 @@ Sunburst color scheme for Vim converted with [coloration](http://coloration.sick
 
 ### GVim
 
-![Sunburst in Gvim](https://github.com/downloads/sickill/vim-sunburst/sunburst-gvim.png)
+![Sunburst in Gvim](https://cloud.github.com/downloads/sickill/vim-sunburst/sunburst-gvim.png)
 
 ### Vim in 256-colors capable terminal
 
-![Sunburst in console Vim](https://github.com/downloads/sickill/vim-sunburst/sunburst-xterm256.png)
+![Sunburst in console Vim](https://cloud.github.com/downloads/sickill/vim-sunburst/sunburst-xterm256.png)
